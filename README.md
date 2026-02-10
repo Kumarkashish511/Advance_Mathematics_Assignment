@@ -322,47 +322,6 @@ This project successfully demonstrates:
 
 The Gaussian-like PDF provides a reasonable approximation of the transformed NO₂ data distribution, validating the chosen methodology. The parameterized approach ensures unique results for different students while maintaining consistent analytical framework.
 
----
 
-## 14. Future Enhancements
 
-Potential improvements to this project:
 
-- **Non-parametric Methods:** Implement Kernel Density Estimation for comparison
-- **Goodness-of-Fit Tests:** Add Kolmogorov-Smirnov or Chi-square tests
-- **Multiple Distributions:** Test Laplace, Cauchy, or Student's t distributions
-- **Cross-Validation:** Split data for training and validation
-- **Outlier Detection:** Identify and handle anomalous NO₂ values
-- **Interactive Visualization:** Use Plotly for dynamic exploration
-- **Confidence Intervals:** Add uncertainty quantification for parameters
-- **Time Series Analysis:** Incorporate temporal patterns in air quality data
-
----
-
-## 15. References
-
-- **Dataset:** India Air Quality Data - Kaggle
-- **Method:** Method of Moments - Statistical Parameter Estimation
-- **Distribution:** Gaussian (Normal) Distribution
-- **Libraries:** NumPy, Pandas, Matplotlib
-
----
-
-## 16. Contact & Contribution
-
-For questions, suggestions, or contributions:
-
-- **GitHub:** [Your GitHub Profile]
-- **Email:** [Your Email]
-
-Feel free to fork this repository and submit pull requests for improvements!
-
----
-
-## License
-
-This project is available for educational and research purposes.
-
----
-
-**Note:** Replace roll number 102317239 with your actual roll number to generate unique results. The transformation parameters and estimated PDF will automatically adjust accordingly.
