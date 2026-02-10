@@ -1,7 +1,5 @@
 # Advance_Mathematics_Assignment
 
-# Advance-Mathematics_Assi2
-
 # Probability Density Function (PDF) Estimation Project
 
 This project implements a non-linear data transformation and parameter estimation model for Air Quality data ($NO_2$) using a student-specific parameterized approach.
